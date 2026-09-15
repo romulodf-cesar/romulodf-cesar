@@ -18,6 +18,14 @@ Há 20 anos me dedico a formar novos talentos em tecnologia, preparando e encami
 
 ---
 
+### 🤖 Ferramentas de IA
+
+<a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"></a>
+<a href="https://www.llamaindex.ai/" target="_blank"><img src="https://img.shields.io/badge/LlamaIndex-8A2BE2.svg?style=for-the-badge&logo=LlamaIndex&logoColor=white" alt="LlamaIndex"></a>
+<a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
+<a href="https://www.trychroma.com/" target="_blank"><img src="https://img.shields.io/badge/ChromaDB-4299E1.svg?style=for-the-badge&logo=chromadb&logoColor=white" alt="ChromaDB"></a>
+---
+
 ### 📬 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
